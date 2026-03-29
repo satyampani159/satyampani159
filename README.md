@@ -31,18 +31,25 @@ I specialize in **data analytics, business intelligence, and strategic decision-
 
 I bring a **results-driven mindset**, adaptability, and strong collaboration skills, aiming to contribute to **data-driven decision-making in dynamic environments**.
 
-
 ## Featured Project
 
-### 🔹 Market Research Analyst — FINLATICS
-Sept 2025 – Oct 2025  
+### 🔹 Market Research Analyst — FINLATICS  
+  **Sep 2025 – Oct 2025**
 
-- Developed **Business Model Canvas** for strategic insights  
+Worked on a live project focused on business model analysis, market sizing, and investor pitching using real-world data.
+
+- Developed and analyzed **Business Model Canvas**  
 - Conducted **market sizing & competitor analysis**  
 - Delivered **data-driven investor pitches**  
-- Identified **growth opportunities using analytics**  
+- Identified **growth opportunities using analytics**
 
----
+<div align="center">
+
+[![Certificate](https://img.shields.io/badge/Certificate-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1IbSZG10rT0fP42AGgwpiTE4jltEU-Q9C/view)
+[![Project Report](https://img.shields.io/badge/Project_Report-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Ylx_xcAJ_cks1RiVtMg0uFDsZuzdOAEp/view)
+[![LOR](https://img.shields.io/badge/LOR-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1KMiVi5ZlSn77Mzco25pQ11-mdPc3SD52/view)
+
+</div>
 
 ## Core Strengths
 
