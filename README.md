@@ -58,7 +58,7 @@ Sept 2025 – Oct 2025
 
 ## Core Strengths
 
-<div align="center">
+<div>
 
 <details>
 <summary><b>Click to Expand</b></summary>
