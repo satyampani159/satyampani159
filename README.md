@@ -56,6 +56,43 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ---
 
+## 💡 Core Strengths
+
+<div align="center">
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+<br>
+
+🔹 **Advanced Statistical Analysis**  
+Python, SQL, and Excel for complex modeling  
+
+🔹 **Interactive Dashboard Development**  
+Power BI, Streamlit  
+
+🔹 **AI & Machine Learning**  
+Model building, LLMs  
+
+🔹 **Process Automation**  
+Workflow optimization using Excel & Python  
+
+🔹 **Marketing Analytics**  
+Campaign analysis & performance optimization  
+
+🔹 **Business Intelligence**  
+Transforming raw data into strategic insights  
+
+🔹 **UI/UX & Creative Design**  
+Canva, Generative AI for intuitive interfaces  
+
+🔹 **Data Storytelling**  
+Clear and impactful narratives for decision-making  
+
+</details>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
