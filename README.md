@@ -31,18 +31,6 @@ I specialize in **data analytics, business intelligence, and strategic decision-
 
 I bring a **results-driven mindset**, adaptability, and strong collaboration skills, aiming to contribute to **data-driven decision-making in dynamic environments**.
 
----
-
-##  Core Strengths
-
-- **Data Analytics** – Python, SQL, Excel  
-- **Business Intelligence** – Power BI, dashboards, reporting  
-- **Machine Learning** – Predictive modeling & insights  
-- **Analytical Thinking** – Structured problem-solving  
-- **Market Research** – Data-driven business insights  
-- **Decision Science** – Strategic and KPI-based analysis  
-
----
 
 ## Featured Project
 
