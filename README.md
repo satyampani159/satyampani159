@@ -58,20 +58,25 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ## 🛠️ Tech Stack
 
-### 📊 Analytics & Data Science
+### 🤖 Artificial Intelligence & Analytics
+![Generative AI](https://img.shields.io/badge/Generative_AI-22c55e?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-22c55e?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### 📈 Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-22c55e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-22c55e?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Machine Learning & Deep Learning](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-22c55e?style=for-the-badge&logo=google&logoColor=white)
 
 ---
+
+### 📊 Business Intelligence & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-22c55e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-22c55e?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### ⚙️ Development & Design
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-22c55e?style=for-the-badge&logo=canva&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-22c55e?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 📜 Certifications
 
