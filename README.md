@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
+  
+# **Satyam Pani**  
+PGDM (BDA) | Data Analytics & Business Intelligence  
 
-<!--
-**satyampani159/satyampani159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&pause=1000&color=22c55e&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Business+Insights;Analytics+%7C+Strategy+%7C+Decision+Making;Bridging+Data+and+Business+Impact)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyampani159.github.io/Website/)
+[![Resume](https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Rl4r-SsQPcu1qI_WgY7FwfQydFmeNf1N/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pani-9442a2218/)
+[![Email](https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyampani456@mail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyampani159&color=22c55e&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🎓 PGDM (Big Data Analytics) student at **FORE School of Management (2025–2027)**  
+💡 Computer Science graduate with strong analytical and problem-solving skills  
+
+I specialize in **data analytics, business intelligence, and strategic decision-making**, combining technical expertise with business understanding. I focus on transforming raw data into **actionable insights, dashboards, and business strategies**.
+
+I bring a **results-driven mindset**, adaptability, and strong collaboration skills, aiming to contribute to **data-driven decision-making in dynamic environments**.
+
+---
+
+## 💼 Core Strengths
+
+- 📊 **Data Analytics** – Python, SQL, Excel  
+- 📈 **Business Intelligence** – Power BI, dashboards, reporting  
+- 🤖 **Machine Learning** – Predictive modeling & insights  
+- 🧠 **Analytical Thinking** – Structured problem-solving  
+- 📉 **Market Research** – Data-driven business insights  
+- 🎯 **Decision Science** – Strategic and KPI-based analysis  
+
+---
+
+## 📊 Featured Project
+
+### 🔹 Market Research Analyst — FINLATICS
+📅 Sept 2025 – Oct 2025  
+
+- Developed **Business Model Canvas** for strategic insights  
+- Conducted **market sizing & competitor analysis**  
+- Delivered **data-driven investor pitches**  
+- Identified **growth opportunities using analytics**  
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Analytics & Data Science
+![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-22c55e?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 📈 Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-22c55e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-22c55e?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- Practical NLP & Deep Learning — Udemy (Mar 2026)  
+- Introduction to SQL — SimpliLearn (Mar 2026)  
+- Oracle Certified Foundations Associate — Oracle (Dec 2025)  
+- Machine Learning Real World Project — Udemy (Nov 2025)  
+- Change Leadership (Miro) — Coursera (Aug 2025)  
+- Brand Marketing & SEO using Wix — Coursera (Aug 2025)  
+- Data Analytics Job Simulation — Deloitte (Forage) (June 2025)  
+
+---
+
+## 🎓 Education
+
+- **PGDM (BDA)** — FORE School of Management (2025–2027)  
+- **B.Sc. Computer Science** — Ravenshaw University (78.77%)  
+- **ISC (XII)** — 81.33%  
+- **ICSE (X)** — 87.83%  
+
+---
+
+## 🎭 Leadership & Interests
+
+### 🏆 Leadership
+- Head Boy — Student Council  
+- Led events, student coordination, and school operations  
+
+### 🎨 Interests
+- Singing 🎤  
+- Guitar & Harmonium 🎸  
+- Theatre 🎭  
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Let's+build+data-driven+solutions;Always+learning+and+growing)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=footer"/>
+</div>
