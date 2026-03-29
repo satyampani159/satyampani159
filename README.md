@@ -84,6 +84,7 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 ![MS Office](https://img.shields.io/badge/MS_Office-22c55e?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
+
 ## 📜 Certifications
 
 - Practical NLP & Deep Learning — Udemy (Mar 2026)  
