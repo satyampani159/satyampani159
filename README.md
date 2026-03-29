@@ -22,10 +22,10 @@ PGDM (BDA) | Data Analytics & Business Intelligence
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 PGDM (Big Data Analytics) student at **FORE School of Management (2025–2027)**  
-💡 Computer Science graduate with strong analytical and problem-solving skills  
+PGDM (Big Data Analytics) student at **FORE School of Management (2025–2027)**  
+Computer Science graduate with strong analytical and problem-solving skills  
 
 I specialize in **data analytics, business intelligence, and strategic decision-making**, combining technical expertise with business understanding. I focus on transforming raw data into **actionable insights, dashboards, and business strategies**.
 
@@ -33,21 +33,21 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ---
 
-## 💼 Core Strengths
+##  Core Strengths
 
-- 📊 **Data Analytics** – Python, SQL, Excel  
-- 📈 **Business Intelligence** – Power BI, dashboards, reporting  
-- 🤖 **Machine Learning** – Predictive modeling & insights  
-- 🧠 **Analytical Thinking** – Structured problem-solving  
-- 📉 **Market Research** – Data-driven business insights  
-- 🎯 **Decision Science** – Strategic and KPI-based analysis  
+- **Data Analytics** – Python, SQL, Excel  
+- **Business Intelligence** – Power BI, dashboards, reporting  
+- **Machine Learning** – Predictive modeling & insights  
+- **Analytical Thinking** – Structured problem-solving  
+- **Market Research** – Data-driven business insights  
+- **Decision Science** – Strategic and KPI-based analysis  
 
 ---
 
-## 📊 Featured Project
+## Featured Project
 
 ### 🔹 Market Research Analyst — FINLATICS
-📅 Sept 2025 – Oct 2025  
+Sept 2025 – Oct 2025  
 
 - Developed **Business Model Canvas** for strategic insights  
 - Conducted **market sizing & competitor analysis**  
@@ -56,7 +56,7 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ---
 
-## 💡 Core Strengths
+## Core Strengths
 
 <div align="center">
 
@@ -93,11 +93,11 @@ Clear and impactful narratives for decision-making
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 🤖 Artificial Intelligence & Analytics
+### Artificial Intelligence & Analytics
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-22c55e?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
@@ -106,7 +106,7 @@ Clear and impactful narratives for decision-making
 
 ---
 
-### 📊 Business Intelligence & Visualization
+### Business Intelligence & Visualization
 
 ![Power BI](https://img.shields.io/badge/Power_BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-22c55e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -114,7 +114,7 @@ Clear and impactful narratives for decision-making
 
 ---
 
-### ⚙️ Development & Design
+### Development & Design
 
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-22c55e?style=for-the-badge&logo=canva&logoColor=white)
@@ -122,7 +122,7 @@ Clear and impactful narratives for decision-making
 
 </div>
 
-## 📜 Certifications
+## Certifications
 
 - Practical NLP & Deep Learning — Udemy (Mar 2026)  
 - Introduction to SQL — SimpliLearn (Mar 2026)  
@@ -134,7 +134,7 @@ Clear and impactful narratives for decision-making
 
 ---
 
-## 🎓 Education
+## Education
 
 - **PGDM (BDA)** — FORE School of Management (2025–2027)  
 - **B.Sc. Computer Science** — Ravenshaw University (78.77%)  
@@ -143,16 +143,16 @@ Clear and impactful narratives for decision-making
 
 ---
 
-## 🎭 Leadership & Interests
+## Leadership & Interests
 
-### 🏆 Leadership
+### Leadership
 - Head Boy — Student Council  
 - Led events, student coordination, and school operations  
 
-### 🎨 Interests
-- Singing 🎤  
-- Guitar & Harmonium 🎸  
-- Theatre 🎭  
+### Interests
+- Singing  
+- Guitar & Harmonium 
+- Theatre 
 
 ---
 
