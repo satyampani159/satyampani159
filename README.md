@@ -33,7 +33,7 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ## Featured Project
 
-### 🔹 Market Research Analyst — FINLATICS  
+### Market Research Analyst — FINLATICS  
   **Sep 2025 – Oct 2025**
 
 Worked on a live project focused on business model analysis, market sizing, and investor pitching using real-world data.
@@ -60,29 +60,29 @@ Worked on a live project focused on business model analysis, market sizing, and 
 
 <br>
 
-🔹 **Advanced Statistical Analysis**  
-Python, SQL, and Excel for complex modeling  
+**Advanced Statistical Analysis**  
+- Python, SQL, and Excel for complex modeling  
 
-🔹 **Interactive Dashboard Development**  
-Power BI, Streamlit  
+**Interactive Dashboard Development**  
+- Power BI, Streamlit  
 
-🔹 **AI & Machine Learning**  
-Model building, LLMs  
+**AI & Machine Learning**  
+- Model building, LLMs  
 
-🔹 **Process Automation**  
-Workflow optimization using Excel & Python  
+**Process Automation**  
+- Workflow optimization using Excel & Python  
 
-🔹 **Marketing Analytics**  
-Campaign analysis & performance optimization  
+**Marketing Analytics**  
+- Campaign analysis & performance optimization  
 
-🔹 **Business Intelligence**  
-Transforming raw data into strategic insights  
+**Business Intelligence**  
+- Transforming raw data into strategic insights  
 
-🔹 **UI/UX & Creative Design**  
-Canva, Generative AI for intuitive interfaces  
+**UI/UX & Creative Design**  
+- Canva, Generative AI for intuitive interfaces  
 
-🔹 **Data Storytelling**  
-Clear and impactful narratives for decision-making  
+**Data Storytelling**  
+- Clear and impactful narratives for decision-making  
 
 </details>
 
