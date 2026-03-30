@@ -153,7 +153,7 @@ Worked on a live project focused on business model analysis, market sizing, and 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!;Let's+build+data-driven+solutions;Always+learning+and+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=800&lines=Let's+build+data-driven+solutions;Always+learning+and+growing)](https://git.io/typing-svg)
 
 </div>
 
