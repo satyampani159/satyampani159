@@ -31,17 +31,30 @@ I specialize in **data analytics, business intelligence, and strategic decision-
 
 I bring a **results-driven mindset**, adaptability, and strong collaboration skills, aiming to contribute to **data-driven decision-making in dynamic environments**.
 
-## Featured Project
+## 💼 Internships & Live Projects
 
-### Market Research Analyst — FINLATICS  
-  **Sep 2025 – Oct 2025**
+### 🔹 Market Research Analyst Intern (Data Focus) — Toddle
+📅 May 2026 – June 2026  
 
-Worked on a live project focused on business model analysis, market sizing, and investor pitching using real-world data.
+- Designed a scalable **data-collection pipeline** for IBO Diploma school data across global regions using LLM-based extraction methods  
+- Collected, structured, and validated **18,500+ data points** across 2,000+ schools worldwide  
+- Built **cleaning and preprocessing workflows** to standardize multi-source datasets for stakeholder reporting  
+- [📋 Certificate](https://drive.google.com/file/d/1cYLR8W1aHESwu5xxwdW_nUoDdPcrNLV-/view?usp=sharing)
 
-- Developed and analyzed **Business Model Canvas**  
-- Conducted **market sizing & competitor analysis**  
-- Delivered **data-driven investor pitches**  
-- Identified **growth opportunities using analytics**
+### 🔹 Digital Marketing Intern — Health & Care Enterprises (Waterkraft)
+📅 April 2026 – June 2026  
+
+- Tracked and analysed **LinkedIn performance metrics** (impressions, engagement) across 18+ posts  
+- Compiled **competitor benchmarking analysis** (Kent RO and peer brands) for market positioning  
+- Supported **B2B lead segmentation** and outreach analysis via IndiaMART data  
+- [📋 Certificate](https://drive.google.com/file/d/1DwlkJBBEmorW8VPFkHqXzcEcwk_09dz7/view?usp=sharing)
+
+### 🔹 Market Research Analyst — Finlatics
+📅 Sept 2025 – Oct 2025  
+
+- Built and analysed **Business Model Canvas** and market-sizing models  
+- Conducted **competitor evaluation and benchmarking** for strategic recommendations  
+- Presented **data-driven investor pitches**, translating analysis into clear business case  
 
 <div align="center">
 
@@ -116,6 +129,22 @@ Worked on a live project focused on business model analysis, market sizing, and 
 ![MS Office](https://img.shields.io/badge/MS_Office-22c55e?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 </div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyampani159&show_icons=true&theme=chartreuse&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampani159&layout=compact&theme=chartreuse&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=satyampani159&theme=chartreuse&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=satyampani159&theme=chartreuse&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+</div>
+
+---
 
 ## Certifications
 
