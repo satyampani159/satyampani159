@@ -12,7 +12,7 @@ PGDM (BDA) | Data Analytics & Business Intelligence
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyampani159.github.io/Website/)
-[![Resume](https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Rl4r-SsQPcu1qI_WgY7FwfQydFmeNf1N/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1l7NJXJIvtLdZd08vPiRMMVSQ5HNCTS5f/edit?usp=sharing&ouid=112282085233648275136&rtpof=true&sd=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pani-9442a2218/)
 [![Email](https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyampani456@mail.com)
 
@@ -39,7 +39,12 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 - Designed a scalable **data-collection pipeline** for IBO Diploma school data across global regions using LLM-based extraction methods  
 - Collected, structured, and validated **18,500+ data points** across 2,000+ schools worldwide  
 - Built **cleaning and preprocessing workflows** to standardize multi-source datasets for stakeholder reporting  
-- [📋 Certificate](https://drive.google.com/file/d/1cYLR8W1aHESwu5xxwdW_nUoDdPcrNLV-/view?usp=sharing)
+
+<div align="center">
+
+[![Certificate](https://img.shields.io/badge/Certificate-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cYLR8W1aHESwu5xxwdW_nUoDdPcrNLV-/view?usp=sharing)
+
+</div>
 
 ### 🔹 Digital Marketing Intern — Health & Care Enterprises (Waterkraft)
 📅 April 2026 – June 2026  
@@ -47,7 +52,12 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 - Tracked and analysed **LinkedIn performance metrics** (impressions, engagement) across 18+ posts  
 - Compiled **competitor benchmarking analysis** (Kent RO and peer brands) for market positioning  
 - Supported **B2B lead segmentation** and outreach analysis via IndiaMART data  
-- [📋 Certificate](https://drive.google.com/file/d/1DwlkJBBEmorW8VPFkHqXzcEcwk_09dz7/view?usp=sharing)
+
+<div align="center">
+
+[![Certificate](https://img.shields.io/badge/Certificate-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DwlkJBBEmorW8VPFkHqXzcEcwk_09dz7/view?usp=sharing)
+
+</div>
 
 ### 🔹 Market Research Analyst — Finlatics
 📅 Sept 2025 – Oct 2025  
@@ -80,13 +90,16 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 - Power BI, Streamlit  
 
 **AI & Machine Learning**  
-- Model building, LLMs  
+- Model building, LLMs, RAG, Chatbots  
+
+**AI Agent Development**  
+- Building intelligent agents using LangChain, LLMs, and N8N  
 
 **Process Automation**  
-- Workflow optimization using Excel & Python  
+- Workflow optimization using Excel, Python & N8N  
 
 **Marketing Analytics**  
-- Campaign analysis & performance optimization  
+- Campaign analysis, performance optimization & Wix  
 
 **Business Intelligence**  
 - Transforming raw data into strategic insights  
@@ -111,6 +124,9 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning & Deep Learning](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-22c55e?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
+![Chatbots](https://img.shields.io/badge/Chatbots-22c55e?style=for-the-badge&logo=chatbot&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-22c55e?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
@@ -119,28 +135,17 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 ![Power BI](https://img.shields.io/badge/Power_BI-22c55e?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-22c55e?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-22c55e?style=for-the-badge&logo=streamlit&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-22c55e?style=for-the-badge&logo=wix&logoColor=white)
 
 ---
 
-### Development & Design
+### Automation & Development
 
+![N8N](https://img.shields.io/badge/N8N-22c55e?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-22c55e?style=for-the-badge&logo=canva&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-22c55e?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyampani159&show_icons=true&theme=chartreuse&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyampani159&layout=compact&theme=chartreuse&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=satyampani159&theme=chartreuse&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=satyampani159&theme=chartreuse&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
