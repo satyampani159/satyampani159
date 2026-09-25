@@ -95,7 +95,7 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 **AI Agent Development**  
 - Building intelligent agents using LangChain, LLMs, and N8N  
 
-**Data Engineering & Analytics Ops**  
+**Data Engineering & Infrastructure**  
 - Kafka, ZooKeeper, Docker, MongoDB, SQL & Grafana monitoring  
 
 **Process Automation**  
@@ -124,6 +124,11 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 ### Artificial Intelligence & Analytics
 
 ![Generative AI](https://img.shields.io/badge/Generative_AI-22c55e?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-22c55e?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-22c55e?style=for-the-badge&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-22c55e?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-22c55e?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning & Deep Learning](https://img.shields.io/badge/Machine_Learning_&_Deep_Learning-22c55e?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Chatbots](https://img.shields.io/badge/Chatbots-22c55e?style=for-the-badge&logo=chatbot&logoColor=white)
@@ -139,33 +144,23 @@ I bring a **results-driven mindset**, adaptability, and strong collaboration ski
 
 ---
 
+### Data Engineering, Databases & Infrastructure
+
+![SQL](https://img.shields.io/badge/SQL-22c55e?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-22c55e?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache ZooKeeper](https://img.shields.io/badge/Apache_ZooKeeper-22c55e?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-22c55e?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-22c55e?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
 ### Automation & Development
 
 ![N8N](https://img.shields.io/badge/N8N-22c55e?style=for-the-badge&logo=n8n&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-22c55e?style=for-the-badge&logo=canva&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS_Office-22c55e?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
----
-
-### Data Engineering, Databases & Infrastructure
-
-![SQL](https://img.shields.io/badge/SQL-22c55e?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-22c55e?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ZooKeeper](https://img.shields.io/badge/Apache_ZooKeeper-22c55e?style=for-the-badge&logo=apacheczookeeper&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-22c55e?style=for-the-badge&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-22c55e?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-### AI Engineering — LLMs, RAG & Agents
-
-![LLMs](https://img.shields.io/badge/LLMs-22c55e?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
-![Agent Development](https://img.shields.io/badge/Agent_Development-22c55e?style=for-the-badge&logo=robotframework&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-22c55e?style=for-the-badge&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-22c55e?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
