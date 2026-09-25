@@ -12,7 +12,7 @@ PGDM (BDA) | Data Analytics & Business Intelligence
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satyampani159.github.io/Website/)
-[![Resume](https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1l7NJXJIvtLdZd08vPiRMMVSQ5HNCTS5f/edit?usp=sharing&ouid=112282085233648275136&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/Resume-22c55e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1J731Ua4iYprgQjznFz7t2izuFcFd-vxI/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pani-9442a2218/)
 [![Email](https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyampani456@mail.com)
 
